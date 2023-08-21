@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\bin\Debug\net6.0-windows\EnterNameProject.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\bin\Debug\net6.0-windows\EnterNameProject.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\bin\Debug\net6.0-windows\EnterNameProject.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\bin\Debug\net6.0-windows\EnterNameProject.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\bin\Debug\net6.0-windows\EnterNameProject.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\refint\EnterNameProject.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\EnterNameProject.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\EnterNameProject\EnterNameProject\obj\Debug\net6.0-windows\ref\EnterNameProject.dll

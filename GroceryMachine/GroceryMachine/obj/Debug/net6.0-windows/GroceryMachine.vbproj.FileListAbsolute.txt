@@ -1,0 +1,17 @@
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\bin\Debug\net6.0-windows\GroceryMachine.exe
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\bin\Debug\net6.0-windows\GroceryMachine.deps.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\bin\Debug\net6.0-windows\GroceryMachine.runtimeconfig.json
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\bin\Debug\net6.0-windows\GroceryMachine.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\bin\Debug\net6.0-windows\GroceryMachine.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.vbproj.AssemblyReference.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.Form1.resources
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.vbproj.GenerateResource.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.AssemblyInfoInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.AssemblyInfo.vb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.vbproj.CoreCompileInputs.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\refint\GroceryMachine.dll
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.pdb
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\GroceryMachine.genruntimeconfig.cache
+C:\GWEN PROGRAMMING\PROGRAMMING\VB.NET\GroceryMachine\GroceryMachine\obj\Debug\net6.0-windows\ref\GroceryMachine.dll
